@@ -1,0 +1,8 @@
+#Lattice constant in a.u.; note that hbar^2*(2pi/a)/2m = 2pi^2/(a^2) (a.u.).
+     3.14159265
+# cutoff energy in wavefunction expansion in eV (1 a.u.=27.2 eV)
+27.2
+# V0 (in a.u.) potential V=2V0*cos(2pix/a)
+2
+# number of k-point [-pi/a,pi/a]
+300
